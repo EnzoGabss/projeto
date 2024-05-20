@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "528933645180",
+    "firebase_url": "https://projeenzo-default-rtdb.firebaseio.com",
+    "project_id": "projeenzo",
+    "storage_bucket": "projeenzo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:528933645180:android:bbd6c29933c87257ac12f9",
+        "android_client_info": {
+          "package_name": "com.example.enzoo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20Gk6n4Daf7ax9L9wVr19ECZYVYThjyA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
